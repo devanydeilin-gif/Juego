@@ -1,0 +1,73 @@
+{
+  "axel@gmail.com": [
+    {
+      "id": 1,
+      "level": 4,
+      "duration": 91.641,
+      "timestamp": "2025-10-22T18:09:30.761736",
+      "prev_hash": "0000000000000000000000000000000000000000000000000000000000000000",
+      "hash": "ed934a6cbe6de065c0214aa86ede00672a0b2487882852567e5b109e76b3e4e7",
+      "player_name": "AxelR"
+    }
+  ],
+  "deilin@gmail.com": [
+    {
+      "id": 2,
+      "level": 1,
+      "duration": 34.798,
+      "timestamp": "2025-10-23T10:03:16.319203",
+      "prev_hash": "88a6e0f22a1a94a1e9cc5f875b53d2bf32ef92a10d36308bc3da617ec7661bcf",
+      "hash": "fa58822bf43b273b69b3166e16619b67f710d0a57787b941e104beed5523a6ac",
+      "player_name": "DEI"
+    },
+    {
+      "id": 1,
+      "level": 1,
+      "duration": 22.932,
+      "timestamp": "2025-10-23T10:02:29.955912",
+      "prev_hash": "0000000000000000000000000000000000000000000000000000000000000000",
+      "hash": "88a6e0f22a1a94a1e9cc5f875b53d2bf32ef92a10d36308bc3da617ec7661bcf",
+      "player_name": "DEI"
+    }
+  ],
+  "javi@gmail.com": [
+    {
+      "id": 2,
+      "level": 3,
+      "duration": 63.614,
+      "timestamp": "2025-10-27T11:13:09.032246",
+      "prev_hash": "6fa353a3fc3d984f56b8e935b88aed4f075b4624b3083a7ad18b70fa1a5ddbbc",
+      "hash": "bd40a8e0301ed71df25d93557102853689f93082ac21cf763ccac922a0b63736",
+      "player_name": "Javi"
+    },
+    {
+      "id": 1,
+      "level": 1,
+      "duration": 42.745,
+      "timestamp": "2025-10-27T11:11:47.362693",
+      "prev_hash": "0000000000000000000000000000000000000000000000000000000000000000",
+      "hash": "6fa353a3fc3d984f56b8e935b88aed4f075b4624b3083a7ad18b70fa1a5ddbbc",
+      "player_name": "Javi"
+    }
+  ],
+  "fredd@gmail.com": [
+    {
+      "id": 2,
+      "level": 1,
+      "duration": 31.617,
+      "timestamp": "2025-10-27T14:01:57.465678",
+      "prev_hash": "52906735faef993643964a1fcbc4d5cf0152ffc081bc441d765cd57f14397d6b",
+      "hash": "a4acc396961b5c3c3daf37c63dcffd721a55e1e8afabad70594329350cdc2441",
+      "player_name": "Fredd"
+    },
+    {
+      "id": 1,
+      "level": 1,
+      "duration": 10.044,
+      "timestamp": "2025-10-27T11:18:11.658515",
+      "prev_hash": "0000000000000000000000000000000000000000000000000000000000000000",
+      "hash": "52906735faef993643964a1fcbc4d5cf0152ffc081bc441d765cd57f14397d6b",
+      "player_name": "Fredd"
+    }
+  ]
+}
